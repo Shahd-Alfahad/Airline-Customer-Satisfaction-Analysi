@@ -1,7 +1,7 @@
 
 # ✈️ Airline Customer Satisfaction Analysis
 
-This project analyzes customer satisfaction data from Invistico Airlines using data preprocessing, RDD and SQL operations, and machine learning models. It was submitted as part of the IT462 - Big Data Systems course at King Saud University.
+This project analyzes customer satisfaction data from Invistico Airlines using data preprocessing, RDD and SQL operations, and machine learning models. 
 
 ## 📌 Project Overview
 
@@ -23,4 +23,5 @@ The dataset includes over 120,000 records and 23 features, such as customer type
 
 
 
+> King Saud University — IT462 -Big Data Systems course , 1446H
 
